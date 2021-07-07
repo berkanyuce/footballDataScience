@@ -82,9 +82,4 @@ for match in matches_men:
         result_text = ' finished ' + str(home_team_score) + ' : ' + str(away_team_score)
         print(describe_text + result_text)
 
-
-
-
-
-
-
+#Data Resource: Statsbomb
